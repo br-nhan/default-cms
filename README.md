@@ -13,3 +13,13 @@ Plugin
 - DebugKit
 - BoostCake
 - AjaxTemplate
+
+Installation:
+
+- php composer.phar self-update
+- php composer.phar update
+- git submodule update --init --recursive
+
+
+Configuration
+- app/Config/Environment
