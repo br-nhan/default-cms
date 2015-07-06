@@ -1,9 +1,13 @@
 # default-cms
 Default cms for new project
 
+
 Init project
 
 Core: 
+- CakePhp 2.6.x
+- PhpUnit 3.7.x
+- Firebase Json Web Token 2.2
 - SPL Autoload
 - Language Component
 - Multi environment
