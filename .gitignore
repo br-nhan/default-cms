@@ -1,0 +1,6 @@
+app/Vendor/*
+app/webroot/html
+app/tmp
+*.pot
+app/Plugin/DebugKit
+app/Plugin/BoostCake

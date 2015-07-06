@@ -1,0 +1,6 @@
+[submodule "app/Plugin/AjaxTemplate"]
+	path = app/Plugin/AjaxTemplate
+	url = git@github.com:br-nhan/AjaxTemplate.git
+[submodule "app/Plugin/Migrations"]
+	path = app/Plugin/Migrations
+	url = git@github.com:br-nhan/Migrations.git

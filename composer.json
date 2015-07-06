@@ -1,0 +1,21 @@
+{
+  "config": {
+    "vendor-dir": "app/Vendor"
+  },
+  "require": {
+    "php": ">=5.3",
+    "cakephp/cakephp" : "2.6.*",
+    "cakephp/debug_kit": "2.2.*",
+    "phpunit/phpunit" : "3.7.*",
+    "slywalker/boost_cake": "*",
+    "firebase/php-jwt": "~2.2"
+    },
+  "repositories" : [
+    
+  ],
+  "extra": {
+    "installer-paths": {
+      "app/Plugin/{$name}/": ["type:cakephp-plugin"]
+    }
+  }
+}
